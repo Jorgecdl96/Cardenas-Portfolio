@@ -10,7 +10,10 @@ The website was design with help of media queries to be able to adapt to any scr
 
 ## Website Presentation
 
-The image below show how the website it´s displayed.
+The image below show how the website it´s deployed.
 
+![Cardenas-Portfolio](./Assets/Cardenas-portfolio.png)
 
-## Link to deployed application
+## Link to deploy application
+
+https://jorgecdl96.github.io/Cardenas-Portfolio/
