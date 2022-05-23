@@ -219,6 +219,7 @@ nav a{
         flex-direction: column;
         justify-content: space-around;
     }
+
     .contactme{
         height: 200px;
         display: flex;
