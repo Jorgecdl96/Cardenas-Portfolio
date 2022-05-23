@@ -123,14 +123,14 @@ nav a{
 .card{
     position: relative;
     width: calc(50% - 10px);
-    height: 9rem;
+    height: 12rem;
     border: 4px solid var(--bluelight);
     margin: 5px;
 }
 
 .larger-card{
     width: 100%;
-    height: 500px;
+    height: 350px;
 }
 /*adjusting the image in the .card box*/
 .card-image{
@@ -168,7 +168,7 @@ nav a{
     font-size: 1.2rem;
 }
 
-.contactme li a{
+.contactme a {
     padding: 3px;
     color: rgb(65, 64, 64);
     text-decoration: none;
@@ -203,7 +203,7 @@ nav a{
 
    .larger-card{
     width: calc(50% - 10px);
-    height: 9rem;
+    height: 12rem;
     margin: 5px;
    }
 
