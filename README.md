@@ -2,7 +2,18 @@
 
 ## Description
 
-This is my Portfolio where you will be able to see all the most important projects I have been worked with. Actually there is only one project uploaded that you could find in the website named as Horiseon and you can click on the image and will open a new page where you will be able to see the Horiseon project, the rest of them are still only images that helps to give a better structure and presentation to my portfolio.
+This project has been created with help of the following languages:
+
+* HTML
+* CSS
+
+This is my Portfolio where you will be able to see all the most important projects I have been worked with. Actually we can see below the project-1 of this BootCamp named as Wolfinance, where we can be able to improve our personal finances, keeping track of each of our daily expenses.
+
+You will find the following homeworks added to my Portfolio:
+
+* Day Planner
+* Horiseon
+* Weather Dashboard
 
 In my portfolio as you can see below, it is structured with a header with my name and a nav section with links that follows you to my work, contact info and a little story about me.
 
