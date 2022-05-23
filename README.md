@@ -23,7 +23,7 @@ The website was design with help of media queries to be able to adapt to any scr
 
 The image below show how the website it´s deployed.
 
-![Cardenas-Portfolio](./Assets/Cardenas-portfolio.png)
+![Cardenas-Portfolio](./Assets/Portfolio%20deployed.png)
 
 ## Link to deploy application
 
