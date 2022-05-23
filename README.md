@@ -15,7 +15,9 @@ You will find the following homeworks added to my Portfolio:
 * Horiseon
 * Weather Dashboard
 
-In my portfolio as you can see below, it is structured with a header with my name and a nav section with links that follows you to my work, contact info and a little story about me.
+In my portfolio as you can see below, it is structured with a header with my name and a nav section with links that follows you to my work, contact info, a little story about me and my Resume where you will be able to see my expirience and my actual job.
+
+You can access to my GitHub and LinkedIn account by clickcing in the links below at "Contact Me" section.
 
 The website was design with help of media queries to be able to adapt to any screen size.
 
