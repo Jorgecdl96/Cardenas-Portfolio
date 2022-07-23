@@ -7,7 +7,7 @@ This project has been created with help of the following languages:
 * HTML
 * CSS
 
-This is my Portfolio where you will be able to see all the most important projects I have been worked with. Actually we can see below the project-1 of this BootCamp named as Wolfinance, where we can be able to improve our personal finances, keeping track of each of our daily expenses.
+This is my Portfolio where you will be able to see all the most important projects I have been worked with. Actually we can see below the project-1 of this BootCamp named as Wolfinance, where we can be able to improve our personal finances, keeping track of each of our daily expenses. And project-2 named as Pin-it which it´s an  application designed to organize all the applications you use every day, having everything within your main internet access.
 
 You will find the following homeworks added to my Portfolio:
 
